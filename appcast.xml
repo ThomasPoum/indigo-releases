@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>indigo</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Fri, 17 Apr 2026 08:22:15 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ThomasPoum/indigo-releases/releases/download/v0.1/Indigo.dmg" length="11926268" type="application/octet-stream" sparkle:edSignature="7TGe6dxZMUhEzYct/d85ePwMeytYL2B0GQJ3v5DEBlGpGNusDlPXeRqsRQ2iClp8jT91heT02tkXuCtcMwCICQ=="/>
+        </item>
+    </channel>
+</rss>
