@@ -3,6 +3,14 @@
     <channel>
         <title>indigo</title>
         <item>
+            <title>0.3</title>
+            <pubDate>Mon, 27 Apr 2026 11:54:14 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ThomasPoum/indigo-releases/releases/download/v0.3/Indigo.dmg" length="12139514" type="application/octet-stream" sparkle:edSignature="30AlquPy7KvHlIffsa7d2M4iwnLmEfn8TA0i8kjtuWRMrMUHbXGzbw057QvqgxDhHjkjnPUH5CVPr8LsekE9CQ=="/>
+        </item>
+        <item>
             <title>0.2</title>
             <pubDate>Fri, 24 Apr 2026 15:32:57 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
