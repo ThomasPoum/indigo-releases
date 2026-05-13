@@ -3,6 +3,14 @@
     <channel>
         <title>indigo</title>
         <item>
+            <title>0.6</title>
+            <pubDate>Wed, 13 May 2026 09:22:12 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ThomasPoum/indigo-releases/releases/download/v0.6/Indigo.dmg" length="11667739" type="application/octet-stream" sparkle:edSignature="jEnvQfnFobVWyqD9rJXvC5sK/xjPt+JjNcRilD3TrHMTwsqooaTXJVliY1mxse0oH5jWa1dw7CxW+oCfMMOZBA=="/>
+        </item>
+        <item>
             <title>0.5</title>
             <pubDate>Sat, 02 May 2026 11:04:02 +0200</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/ThomasPoum/indigo-releases/releases/download/v0.4/Indigo.dmg" length="11663947" type="application/octet-stream" sparkle:edSignature="EvOepaIsv32kgpl06OUX2ZAb1kKBlw367dqanGXX5EZ9JHHAEKzbgihAMc5czyIEvNBpPUk0sWd1zWkpfF8+Bg=="/>
-        </item>
-        <item>
-            <title>0.3</title>
-            <pubDate>Mon, 27 Apr 2026 11:54:14 +0200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ThomasPoum/indigo-releases/releases/download/v0.3/Indigo.dmg" length="12139514" type="application/octet-stream" sparkle:edSignature="30AlquPy7KvHlIffsa7d2M4iwnLmEfn8TA0i8kjtuWRMrMUHbXGzbw057QvqgxDhHjkjnPUH5CVPr8LsekE9CQ=="/>
         </item>
     </channel>
 </rss>
